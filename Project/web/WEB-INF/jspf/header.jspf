@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Programming Assignment - Information Retrieve System</title>
+        <meta charset="utf-8">
+
+        <link rel="shortcut icon" href="" type="image/x-icon">
+
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+        <link href="css/page.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <header class="page-header">
+                <h1>
+                    Information Retrieve System <br /> <small>Programming Assignment</small>
+                </h1>
+            </header>
